@@ -3,9 +3,9 @@
     padding: 0px;
 }
 body{
-    background-image:url('/profile/images/download\ \(2\).jpg') ;
+    background-image:url('/images/images\ \(10\).jpg') ;
     background-position: fixed;
-    background-size:cover;
+    background-size:100%;
    
 }
 header{
@@ -37,11 +37,12 @@ nav a{
         color:white;
     }
     aside{
-       background-image:url('/profile/images/images\ \(7\).jpg') ; 
+       background-image: url('/images/images\ \(7\).jpg');
         color: black;
       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-       margin: 80px;  
+       margin: 50px;  
        float: bottom;
+       width: 50%;
       
     }
     aside h3{
@@ -51,12 +52,12 @@ font-weight: 500;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
     aside img{
-        position:absolute ;
+        position:fixed ;
         height: 20%;
         border-right: 30%;
     }
 .container
-    {color:black;
+    {color:whitesmoke;
         margin-top: 5%;
     }
     
@@ -82,6 +83,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
         margin-left:35%;
     }
     .container p{
+        
         display:block;
         margin-top: 1em;
         margin-bottom: 1em;
