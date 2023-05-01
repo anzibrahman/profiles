@@ -37,7 +37,6 @@ nav a{
         color:white;
     }
     aside{
-       background-image: url('/images/images\ \(7\).jpg');
         color: black;
       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
        margin: 50px;  
@@ -57,7 +56,8 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
         border-right: 30%;
     }
 .container
-    {color:whitesmoke;
+    {
+        color:white;
         margin-top: 5%;
     }
     
